@@ -1,0 +1,56 @@
+=======================
+INFORMASI UMUM
+
+Alamat Github : https://github.com/sm4rtm3n/Origin.git 
+Alamat Trello : https://trello.com/b/Ge7xcF8L/healthy-life
+Judul Topik   :	Presentasi Healthy-Life 
+
+Anggota 1
+Nama: Nico Limbara
+NIM: 13.111.1696
+
+Anggota 2
+Nama: Yunas Hanifah
+NIM: 13.111.1623
+
+Anggota 3
+Nama: Henry Kurniawan
+NIM: 13.111.1631
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+1/6 - 4/6
+Scrummaster: Nico Limbara (13.111.1696)
+
+Sprint 2:
+5/6 - 8/6
+Scrummaster: Yunas Hanifah (13.111.1623)
+
+Sprint 3: 
+9/6 - 12/6
+Scrummaster: HEnry Kurniawan (13.111.1631)
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+
+1/6 
+Daily Scrum
+(Nico):
+1. 
+2. 
+3. 
+
+(Yunas):
+1.
+2. 
+3. 
+
+(Henry):
+1. 
+2. 
+3.
