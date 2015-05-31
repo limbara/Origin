@@ -1,1 +1,2 @@
-ini pull 
+ini pull tambah push
+
