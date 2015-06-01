@@ -42,8 +42,8 @@ Progress Harian (Diupdate tiap hari)
 Daily Scrum
 (Nico):
 1. 
-2. 
-3. 
+2. Hari ini akan dibahas tentang requirement yang dibutuhkan.
+3. Belum ada kendala dalam pengerjaan tugas.
 
 (Yunas):
 1.
