@@ -52,5 +52,5 @@ Daily Scrum
 
 (Henry):
 1. 
-2. 
-3.
+2. Hari ini saya akan melakukan pembahasan terhadap requirment yang diperlukan
+3. Belum ditemui kendala dalam pengerjaan tugas
