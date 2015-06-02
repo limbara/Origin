@@ -68,6 +68,6 @@ Daily Scrum
 3. Belum ditemui kendala
 
 (Henry):
-1. 
-2. 
-3. 
+1. Kemarin membahas requirement
+2. Hari ini saya mencari informasi presentasi
+3. Belum ada kendala 
