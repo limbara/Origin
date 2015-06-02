@@ -52,35 +52,13 @@ article#presentation
     perspective: 600px
     margin-top: 50px
 
-.bespoke-slide
-  transition:
-    transform slide_transition_length slide_transition_easing,
-    opacity slide_transition_length slide_transition_easing,
-    background slide_transition_length slide_transition_easing
-  transform-origin: 50% 50% 0
-  backface-visibility: hidden
-  display: flex
-  flex-direction: column
-  justify-content: center
-  align-items: center
-  text-align: center
-  width: slide_width
-  height: slide_height
-  position: absolute
-  top: 50%
-  margin-top: (slide_height / 2) * -1
-  left: 50%
-  margin-left: (slide_width / 2) * -1
-  background: slide_background
-  padding: 40px
-  border-radius: 0
-  @media print
-    zoom: 1 !important // disable bespoke-scale
-    height: 743px // seems to correspond with an A4, landscape page height
-    width: 100%
-    page-break-before: always
-    position: static
-    margin: 0
+section.bespoke-slide
+  	-webkit-transition: -webkit-transform .7s ease, opacity .7s ease, background-color .7s ease
+	-moz-transition: -moz-transform .7s ease, opacity .7s ease, background-color .7s ease
+	-ms-transition: -ms-transform .7s ease, opacity .7s ease, background-color .7s ease
+	-o-transition: -o-transform .7s ease, opacity .7s ease, background-color .7s ease
+	transition: transform .7s ease, opacity .7s ease, background-color .7s ease
+
 
 .bespoke-before
   //transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
@@ -139,7 +117,7 @@ ol
   top: 0
   left: 0
   right: 0
-  height: 2px
+  height: 4px
   @media only screen and (min-width: 1366px)
     height: 4px
   @media print
@@ -149,7 +127,7 @@ ol
   transition: width .6s ease
   position: absolute
   height: 100%
-  background: #0089f3
+  background: #ff8700
   border-radius: 0 4px 4px 0
 
 // bespoke-state styles
@@ -171,12 +149,26 @@ code.inline
   margin: 0
   padding: 0 !important
 
-// content styles
-
+//kerangka
 body
   background: slide_background
   color: #3A4145
   font-family: 'Open Sans', sans-serif
+
+section
+  background : #c0c0c0
+  width: 1356px
+  height: 600px
+  position: absolute
+  top: 39%
+  left: 19%
+  margin-left: -256px
+  margin-top: -220px
+  opacity: 0
+
+//=============================================================================================================================================================================================
+
+// content styles
 
 blockquote
   font-style: italic
@@ -214,19 +206,6 @@ hr
 ul
   list-style: none
 
-section>li
-  margin-bottom: 12px
-
-section
-  background : #c0c0c0
-  width: 512px
-  height: 380px
-  position: absolute
-  top: 50%
-  left:50%
-  margin-left: -256px
-  margin-top: -220px
-  opacity: 0
 p
   margin: 0 100px 12px
   line-height: 1.2em
