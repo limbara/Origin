@@ -58,9 +58,9 @@ Daily Scrum
 2/6 
 Daily Scrum
 (Nico):
-1. 
-2. 
-3. 
+1. Kemarin membahas tentang requirement dan belajar mengenai framework bespoke
+2. Hari ini saya membuat kerangka presentasi 
+3. Tidak ada kendala yang terjadi
 
 (Yunas):
 1. Kemarin membahas requirement dan mencari informasi yang diperlukan
