@@ -47,10 +47,27 @@ Daily Scrum
 
 (Yunas):
 1.
-2. 
-3. 
+2. Hari ini saya membahas requirment yang diperlukan dalam pengerjaan proyek
+3. Belum ditemui kendala
 
 (Henry):
 1. 
+2. Hari ini saya akan melakukan pembahasan terhadap requirment yang diperlukan
+3. Belum ditemui kendala dalam pengerjaan tugas
+
+2/6 
+Daily Scrum
+(Nico):
+1. 
 2. 
-3.
+3. 
+
+(Yunas):
+1. Kemarin membahas requirement dan mencari informasi yang diperlukan
+2. Hari ini saya akan mengisi Product backlog pada Trello
+3. Belum ditemui kendala
+
+(Henry):
+1. Kemarin membahas requirement
+2. Hari ini saya mencari informasi presentasi
+3. Belum ada kendala 
