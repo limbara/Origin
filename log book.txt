@@ -75,9 +75,9 @@ Daily Scrum
 3/6 
 Daily Scrum
 (Nico):
-1. 
-2. 
-3. 
+1. Kemarin saya membuat kerangka presentasi  
+2. Hari ini saya memperbaiki kerangka presentasi dan membuat Opening pada Presentasi
+3. TIdak ada masalah dalam Pengerjaan
 
 (Yunas):
 1. Kemarin saya mengisi Product backlog pada Trello
