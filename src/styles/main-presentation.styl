@@ -52,13 +52,35 @@ article#presentation
     perspective: 600px
     margin-top: 50px
 
-section.bespoke-slide
-  	-webkit-transition: -webkit-transform .7s ease, opacity .7s ease, background-color .7s ease
-	-moz-transition: -moz-transform .7s ease, opacity .7s ease, background-color .7s ease
-	-ms-transition: -ms-transform .7s ease, opacity .7s ease, background-color .7s ease
-	-o-transition: -o-transform .7s ease, opacity .7s ease, background-color .7s ease
-	transition: transform .7s ease, opacity .7s ease, background-color .7s ease
-
+.bespoke-slide
+  transition:
+    transform slide_transition_length slide_transition_easing,
+    opacity slide_transition_length slide_transition_easing,
+    background slide_transition_length slide_transition_easing
+  transform-origin: 50% 50% 0
+  backface-visibility: hidden
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  text-align: center
+  width: slide_width
+  height: slide_height
+  position: absolute
+  top: 50%
+  margin-top: (slide_height / 2) * -1
+  left: 50%
+  margin-left: (slide_width / 2) * -1
+  background: slide_background
+  padding: 40px
+  border-radius: 0
+  @media print
+    zoom: 1 !important // disable bespoke-scale
+    height: 743px // seems to correspond with an A4, landscape page height
+    width: 100%
+    page-break-before: always
+    position: static
+    margin: 0
 
 .bespoke-before
   //transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
@@ -114,7 +136,7 @@ ol
 
 .bespoke-progress-parent
   position: absolute
-  top: 0
+  top: 632px
   left: 0
   right: 0
   height: 4px
@@ -149,26 +171,12 @@ code.inline
   margin: 0
   padding: 0 !important
 
-//kerangka
+// content styles
+
 body
   background: slide_background
   color: #3A4145
   font-family: 'Open Sans', sans-serif
-
-section
-  background : #c0c0c0
-  width: 1356px
-  height: 600px
-  position: absolute
-  top: 39%
-  left: 19%
-  margin-left: -256px
-  margin-top: -220px
-  opacity: 0
-
-//=============================================================================================================================================================================================
-
-// content styles
 
 blockquote
   font-style: italic
@@ -186,7 +194,7 @@ h1
   font-size: 72px
   line-height: 82px
   letter-spacing: -2px
-  margin-bottom: 16px
+  margin-bottom: 5px
 
 h2
   font-size: 42px
@@ -201,11 +209,22 @@ h3
 
 hr
   visibility: hidden
-  height: 20px
+  height: 5px
 
 ul
   list-style: none
 
+
+section
+  background : #c0c0c0
+  width: 512px
+  height: 380px
+  position: absolute
+  top: 50%
+  left:50%
+  margin-left: -256px
+  margin-top: -220px
+  opacity: 0
 p
   margin: 0 100px 12px
   line-height: 1.2em
@@ -215,12 +234,12 @@ a
   text-decoration: none
 
 img
-  margin: 1.5em auto
+  margin: 1.0em auto
   max-width: 45%
   height: auto
 
 img.big
-  margin: 1.5em auto
+  margin: 1.0em auto
   max-width: 100%
   height: auto
 
