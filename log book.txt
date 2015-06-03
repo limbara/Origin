@@ -71,3 +71,20 @@ Daily Scrum
 1. Kemarin membahas requirement
 2. Hari ini saya mencari informasi presentasi
 3. Belum ada kendala 
+
+3/6 
+Daily Scrum
+(Nico):
+1. 
+2. 
+3. 
+
+(Yunas):
+1. 
+2. 
+3. 
+
+(Henry):
+1. Kemarin saya mencari informasi presentasi dan belajar tentang penulisan jade
+2. Hari ini saya akan mengedit main-presentation.css
+3. Belum ada kendala dalam pengerjaan
