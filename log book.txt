@@ -98,9 +98,9 @@ Daily Scrum
 3. 
 
 (Yunas):
-1. 
-2. 
-3. 
+1. Kemarin saya belajar tentang cara penulisan stylus dan jade
+2. Hari ini saya membuat halaman-3 presentasi
+3. Belum ada kendala dalam proyek
 
 (Henry):
 1. Kemarin saya mengedit main-presentation.css
