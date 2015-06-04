@@ -93,9 +93,9 @@ Daily Scrum
 4/6 
 Daily Scrum
 (Nico):
-1. 
-2. 
-3. 
+1. Kemarin saya memperbaiki kerangka presentasi yang kurang sempurna
+2. Hari ini saya menambahkan footer pada contoh.jade
+3. Tidak ada kendala yang terjadi
 
 (Yunas):
 1. Kemarin saya belajar tentang cara penulisan stylus dan jade
