@@ -106,3 +106,20 @@ Daily Scrum
 1. Kemarin saya mengedit main-presentation.css
 2. Hari ini saya membuat halaman-2 presentasi
 3. Belum ada kendala dalam pengerjaan
+
+5/6 
+Daily Scrum
+(Nico):
+1. Kemarin saya memperbaiki contoh.jade dengan menambahkan footer
+2. Hari ini saya mengisi halaman-4.jade dengan subtopik Rumus IMT
+3. Pengerjaan berjalan dengan lancar
+
+(Yunas):
+1. Kemarin saya membuat halaman-3 presentasi 
+2. Hari ini saya membuat halaman-6 presentasi dengan subtopik Faktor Genetika
+3. Belum ada kendala dalam proyek
+
+(Henry):
+1. Kemarin saya membuat halaman-2 presentasi
+2. Hari ini mengisi halaman-5 presentasi faktor yang mempengaruhi tubuh ideal
+3. Belum ada kendala dalam pengerjaan
