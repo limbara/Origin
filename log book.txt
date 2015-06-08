@@ -157,3 +157,20 @@ Daily Scrum
 1. Kemarin saya mengisi halaman-9 & halaman-10 berisi kacang merah, brokoli, salmon, ubi, gandum & kedelai
 2. Hari ini kembali mengedit main-presentation.css
 3. Belum ada kendala dalam pengerjaan
+
+8/6 
+Daily Scrum
+(Nico):
+1. kemarin saya membuang file-file yang tidak dibutuhkan 
+2. hari ini saya mencoba untuk mengubah style dari slide
+3. belum ada kendala
+
+(Yunas):
+1. kemarin saya mengisi halaman 12 dengan subtopik Faktor istirahat 
+2. hari ini saya mengerjakan halaman 14 tentang olahraga
+3. belum ada kendala
+
+(Henry):
+1. kemarin saya mengedit main-presentation.css
+2. hari ini saya mencari gmbar untuk dimasukan dalam slide
+3. belum ada kendala
